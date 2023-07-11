@@ -57,4 +57,12 @@ console.log(temp2)
 //decrement-=1;
 //console.log(increment, decrement);
 
-//
+//working on strings
+ var initialVariable= 'I\'m called Jordan';
+ console.log(initialVariable)
+ var initialVariable="Mr nde said I'm a plug";
+ console.log(initialVariable)
+ var initialVariable="Mr nde"
+ //immutable 
+ const string="hello world"
+ console.log(string.length);
